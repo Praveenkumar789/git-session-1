@@ -1,3 +1,5 @@
 This is the third file created by me
 
 check the changes for file made after branch1
+see the conflicts here
+see the modifications by child2
