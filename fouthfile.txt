@@ -1,2 +1,12 @@
 This is the fourth file I am working on
+<<<<<<< HEAD
 these are changes made after creating the child brach
+=======
+
+dsfsdsfds
+fds
+s
+fdsf
+fdsdsf
+sfs
+>>>>>>> new-branch
